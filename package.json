@@ -14,12 +14,12 @@
   "author": "Alex Gorbatchev <alex.gorbatchev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "resolve": "0.3.1",
-    "console-browserify": "0.1.6",
-    "vm-browserify": "0.0.1",
-    "crypto-browserify": "0.2.1",
-    "http-browserify": "0.1.11",
-    "buffer-browserify": "0.0.5",
-    "zlib-browserify": "0.0.1"
+    "resolve": "1.1.7",
+    "console-browserify": "1.1.0",
+    "vm-browserify": "0.0.4",
+    "crypto-browserify": "3.11.0",
+    "http-browserify": "1.7.0",
+    "buffer-browserify": "0.2.5",
+    "zlib-browserify": "0.0.3"
   }
 }
